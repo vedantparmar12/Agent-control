@@ -8,7 +8,7 @@ A comprehensive template for getting started with Context Engineering—the disc
 
 ```bash
 # 1. Clone this template
-git clone https://github.com/coleam00/Context-Engineering-Intro.git
+git clone https://github.com/vedantparmar12/Agent-control.git
 cd Context-Engineering-Intro
 
 # 2. Initialize Codex Session
